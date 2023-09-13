@@ -45,3 +45,4 @@ Logs the deployed contract's address to the console.
 Calls the main() function, handles errors, and exits the process
 
 Video Walkthrough
+https://www.loom.com/share/2f4350933a7b4e848241f56d2e29f803?sid=e83f5d19-af57-45ff-9346-9799942a8ab9
